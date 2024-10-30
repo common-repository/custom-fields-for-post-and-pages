@@ -1,0 +1,30 @@
+#toplevel_page_ri-custom-field-ri_cf .wp-menu-image img {
+	height: 16px;
+}
+#toplevel_page_ri-custom-field-ri_cf .wp-menu-image.dashicons-before{
+	    width: auto;
+    margin-right: 5px;
+}
+
+a{ cursor:pointer; }
+.ripladmin p {
+    clear: both;
+}
+.ripladmin p b {
+    width: 100px;
+    float: left;
+    line-height: 28px;
+    vertical-align: middle;
+    min-height: 1px;
+}
+.ricf_col{
+	display:block;
+	margin: 10px 0;	
+}
+.ricf_col label{
+	width:200px;
+	float: left;	
+}
+.ricf_col span {
+    margin: 0 15px 0 5px;
+}
